@@ -1,5 +1,5 @@
 # HR Analytics Dashboard using Power BI:
-this dashboard to you. The dashboard shows the HR analytics of a company, which is the analysis of the data related to human resources, such as employee performance, retention, satisfaction, and turnover. The dashboard has six charts that show different aspects of HR analytics. Here are the insights that each chart provides:
+The dashboard shows the HR analytics of a company, which is the analysis of the data related to human resources, such as employee performance, retention, satisfaction, and turnover. The dashboard has six charts that show different aspects of HR analytics. Here are the insights that each chart provides:
 
 
 ![power bi](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/a75da90f-034f-4eb6-9a40-8aa94b985089)
