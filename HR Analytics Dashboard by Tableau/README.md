@@ -1,9 +1,9 @@
 # HR Analytics Dashboard using Tableau:
 This dashboard shows the HR analytics of a different company, which is also the analysis of the data related to human resources. The dashboard has five sections that show different aspects of HR analytics. Here are the insights that each section provides:
+<br>
+![tableau](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/b7ec1fb6-6034-48d0-aa67-59a356a5a409)
 
-![tableau](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/eb810611-aed6-4ba5-8147-83d44df0a039)
-
-
+<br>
 - The top left section shows the employee count, attrition count, attrition rate, active employee count, and average age by gender. It has two boxes: one for males and one for females. The boxes show that the company has 882 male employees and 588 female employees, with an attrition rate of 15% for males and 14% for females. The active employee count is 750 for males and 501 for females. The average age is 37 for males and 36 for females. These numbers give a general overview of the company's workforce and its characteristics by gender.<br>
 
 - The top right section shows the job satisfaction rating for different departments. It has a bar graph that shows the average rating on a scale of 1 to 5 for six departments: sales, research and development, human resources, technical support, marketing, and finance. The graph shows that the research and development department has the highest job satisfaction rating, with an average of 4.2, followed by human resources with an average of 4.0. The sales department has the lowest job satisfaction rating, with an average of 3.2, followed by technical support with an average of 3.4. This graph shows how happy the employees are with their jobs in different departments.<br>
