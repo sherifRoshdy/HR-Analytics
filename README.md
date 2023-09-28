@@ -6,7 +6,7 @@ This project is an example of how to build a data analysis project using popular
 
 <br>
 
-# Tools
+## Tools:
 The tools used in this project are:
 
 SQL: A structured query language for manipulating and analyzing data stored in relational databases. SQL is used to extract, transform, and filter the data from the source database and prepare it for further analysis and visualization.
