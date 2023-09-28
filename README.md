@@ -5,7 +5,8 @@ This project is an example of how to build a data analysis project using popular
 ![269375897-ffe48582-5dea-4828-bf2e-91df57b45ee1](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/bfae508a-6ed7-4dd8-93c6-c90166156c8a)
 
 <br>
-## Tools
+
+# Tools
 The tools used in this project are:
 
 SQL: A structured query language for manipulating and analyzing data stored in relational databases. SQL is used to extract, transform, and filter the data from the source database and prepare it for further analysis and visualization.
