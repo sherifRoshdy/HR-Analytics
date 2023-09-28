@@ -1,6 +1,6 @@
 # HR-Analytics Dashboard using Excel:
 This project is an example of how to create a dashboard using Excel. <br>The dashboard shows the HR analytics of a company, such as employee count, attrition rate, job satisfaction rating, and average age by gender, department, education level, and age group.<br>
-![excel visaulation](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/3f920cda-6017-4c06-9a18-6be908a7be3a)
+![excel visaulation](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/c8437637-b61c-4e0d-b372-e7130a1046be)
 
 
 <br>
