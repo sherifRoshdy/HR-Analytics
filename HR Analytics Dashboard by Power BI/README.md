@@ -1,8 +1,9 @@
 # HR Analytics Dashboard using Power BI:
 The dashboard shows the HR analytics of a company, which is the analysis of the data related to human resources, such as employee performance, retention, satisfaction, and turnover. The dashboard has six charts that show different aspects of HR analytics. Here are the insights that each chart provides:
+<br>
+![power bi](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/39d0f678-ed57-48b1-bf28-357d1f8db185)
 
-
-![power bi](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/a75da90f-034f-4eb6-9a40-8aa94b985089)
+<br>
 
 - The bar graph on the top left corner shows the overall analytics of the company. It has four bars that represent four metrics: total employees, attrition rate, average salary, and average age. The graph shows that the company has 1470 employees, with an attrition rate of 16%, an average salary of $65,000, and an average age of 37 years. These numbers give a general overview of the company's workforce and its characteristics.<br>
 
