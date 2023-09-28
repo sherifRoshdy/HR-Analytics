@@ -3,7 +3,7 @@
 This project is an example of how to build a data analysis project using popular tools such as Power BI, Tableau, SQL, and Excel. 
 The project uses a sample dataset of sales transactions from an online retail store and aims to answer various business questions and provide insights into sales performance, customer behavior, product trends, and market opportunities.
 <br>
-![269375897-ffe48582-5dea-4828-bf2e-91df57b45ee1](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/bfae508a-6ed7-4dd8-93c6-c90166156c8a)
+![269375897-ffe48582-5dea-4828-bf2e-91df57b45ee1](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/5bfe18d9-d555-4c19-8e1a-e1f0b01a93c9)
 
 <br>
 
