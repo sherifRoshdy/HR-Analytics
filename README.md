@@ -1,6 +1,6 @@
 # Data Analyst Project
 
-# Developed an HR analytics project to analyze employee performance, attrition, and workforce demographics using ( 3 ) interactive dashboards created in Excel, Power BI, and Tableau. 
+## Developed an HR analytics project to analyze employee performance, attrition, and workforce demographics using ( 3 ) interactive dashboards created in Excel, Power BI, and Tableau. 
 
 ## Cleaned and preprocessed a raw CSV dataset by handling missing values, removing duplicates, and standardizing formats to ensure data accuracy and consistency.
 
