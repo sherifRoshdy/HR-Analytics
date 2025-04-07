@@ -1,11 +1,8 @@
 # Data Analyst Project
 
-<br>
-![269375897-ffe48582-5dea-4828-bf2e-91df57b45ee1](https://github.com/sherifRoshdy/HR-Analytics/assets/77529268/5bfe18d9-d555-4c19-8e1a-e1f0b01a93c9)
-<be>
 # Developed an HR analytics project to analyze employee performance, attrition, and workforce demographics using ( 3 ) interactive dashboards created in Excel, Power BI, and Tableau. 
 
-Cleaned and preprocessed a raw CSV dataset by handling missing values, removing duplicates, and standardizing formats to ensure data accuracy and consistency.
+## Cleaned and preprocessed a raw CSV dataset by handling missing values, removing duplicates, and standardizing formats to ensure data accuracy and consistency.
 
 ## Tools:
 The tools used in this project are:
